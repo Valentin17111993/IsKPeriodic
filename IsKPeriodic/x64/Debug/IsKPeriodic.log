@@ -1,0 +1,3 @@
+﻿  IsKPeriodic.cpp
+D:\Valentine\SkillFactory\Модуль 12\IsKPeriodic\IsKPeriodic\IsKPeriodic.cpp(24,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  IsKPeriodic.vcxproj -> D:\Valentine\SkillFactory\Модуль 12\IsKPeriodic\x64\Debug\IsKPeriodic.exe
